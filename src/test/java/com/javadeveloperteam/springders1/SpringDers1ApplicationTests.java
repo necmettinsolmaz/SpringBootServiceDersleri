@@ -1,0 +1,13 @@
+package com.javadeveloperteam.springders1;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringDers1ApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
